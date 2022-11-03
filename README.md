@@ -67,7 +67,7 @@ Content-Type: application/json
 
 <p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter/blob/main/docs/success-page.png" /></p>
 
-# Bonus
+# ⭐️ Bonus
 
 - จัดแต่ละหน้าให้สวยงาม สามารถใช้ Daisyui, Vuetify หรือ Library ตามถนัดได้
 - ที่หน้า **Checkout** มีแจ้งเตือนเมื่อกรอกข้อมูลไม่ครบ
