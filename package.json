@@ -1,5 +1,5 @@
 {
-  "name": "itsc-pokemon-workshop",
+  "name": "itsc-shop-project-starter",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

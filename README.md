@@ -1,6 +1,6 @@
-# itsc-pokemon-workshop
+# itsc-shop-project-starter
 
-<p align="center"><img src="https://github.com/runyasak/itsc-pokemon-workshop-starter/blob/main/docs/screenshot.png" /></p>
+<p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter-starter/blob/main/docs/screenshot.png" /></p>
 
 ## Recommended IDE Setup
 
