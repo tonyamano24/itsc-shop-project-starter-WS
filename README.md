@@ -24,7 +24,7 @@ GET https://e-commerce-workshop-api.vercel.app/api/products
 GET https://e-commerce-workshop-api.vercel.app/api/products/:id
 ```
 
-- สร้างปุ่มปุ่ม **Buy Now** ที่เมื่อกดแล้วจะไปหน้า **Checkout**
+- สร้างปุ่ม **Buy Now** ที่เมื่อกดแล้วจะไปหน้า **Checkout**
 
 <p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter/blob/main/docs/detail-page.png" /></p>
 
