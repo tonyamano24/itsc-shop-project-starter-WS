@@ -26,7 +26,7 @@ GET https://e-commerce-workshop-api.vercel.app/api/products/:id
 
 - สร้างปุ่มปุ่ม **Buy Now** ที่เมื่อกดแล้วจะไปหน้า **Checkout**
 
-<p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter/blob/main/docs/checkout-page.png" /></p>
+<p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter/blob/main/docs/detail-page.png" /></p>
 
 ## 3. หน้า Checkout Page
 
@@ -58,6 +58,8 @@ Content-Type: application/json
   "address": string
 }
 ```
+
+<p align="center"><img src="https://github.com/runyasak/itsc-shop-project-starter/blob/main/docs/checkout-page.png" /></p>
 
 - เมื่อส่งข้อมูลครบหรือ success จะต้อง redirect ไปที่หน้า **Checkout Success** หากได้ error จะต้องไปสามารถไม่สามารถไปหน้า **Checkout Success** ได้
 
